@@ -1,0 +1,16 @@
+{
+  "name": "bot-ardan-store",
+  "version": "1.0.0",
+  "description": "Bot WA Ardan Store on Render via Phone Code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.23",
+    "form-data": "^4.0.0",
+    "jimp": "^1.6.0",
+    "express": "^4.19.2",
+    "pino": "^9.0.0"
+  }
+}
